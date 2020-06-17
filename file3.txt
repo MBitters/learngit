@@ -1,4 +1,4 @@
 测试
 git diff 
 git diff --cached
-git diff HEAD
+git diff HEAD1
